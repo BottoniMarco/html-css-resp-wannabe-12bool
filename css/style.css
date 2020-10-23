@@ -16,40 +16,55 @@ h1 {
 h3 {
   text-align: center;
   margin-bottom: 20px;
+  margin-top: 20px;
 }
 
 p {
   text-align: center;
+  margin-bottom: 20px;
+  margin-right: 10px;
 }
 
+
 .image-box-1 {
-  width: 200px;
-  height: 200px;
+  width: 37%;
+  height: 37%;
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+#img-laptop{
+  width: 60%;
+  height: 50%;
   display: block;
   margin-right: auto;
   margin-left: auto;
 }
 
 .image-box-2 {
-  width: 70%;
-  height: 70%;
+  width: 60%;
+  height: 60%;
   display: block;
   margin-right: auto;
   margin-left: auto;
+  margin-top: 30px
 }
 
 .image-box-3 {
   background-color: #428bca;
   border-radius: 50%;
   padding: 30px;
-  width: 250px;
-  height: 250px;
+  width: 30%;
+  height: 30%;
   display: block;
   margin: auto;
   margin-left: auto;
   margin-top: 60px;
   margin-bottom: 20px
 }
+
+
 
 .container.grey {
   background-color: #f9f9f9;
